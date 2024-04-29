@@ -1,0 +1,23 @@
+{
+  "name": "web3chess-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samott/web3chess-contracts.git"
+  },
+  "author": "Shaun Amott <shaun@inerd.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/samott/web3chess-contracts/issues"
+  },
+  "homepage": "https://github.com/samott/web3chess-contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "hardhat": "^2.22.3"
+  }
+}
